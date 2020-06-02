@@ -14,6 +14,8 @@ tags
 __pycache__/
 *.py[cod]
 *$py.class
+*.dcm
+*.nii.gz
 
 # C extensions
 *.so
